@@ -13,3 +13,13 @@
 - [https://github.com/trieunt95-dev/js-nangcao/tree/master](https://github.com/trieunt95-dev/js-nangcao/tree/master)
 
 - [https://github.com/jumaschion/You-Dont-Know-JS-1](https://github.com/jumaschion/You-Dont-Know-JS-1)
+
+# Projects
+
+- [https://github.com/bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
+
+- [https://github.com/john-smilga/javascript-basic-projects](https://github.com/john-smilga/javascript-basic-projects)
+
+# Tutorials
+
+# Sample code
