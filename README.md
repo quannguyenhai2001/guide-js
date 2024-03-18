@@ -12,6 +12,10 @@
 - Ví dụ: ![alt text](./assets/js-features/optimization/code-split/image.png) ![alt text](./assets/js-features/optimization/code-split/image-2.png) ![alt text](./assets/js-features/optimization/code-split/image-1.png)
   - bên trên chúng ta chia nhỏ file ra và chỉ cho load khi người dùng click (áp dụng kĩ thuật lazy load). Chúng ta có thể thấy ta đã chia ra thành 3 file bundle js và chỉ tải khi cần
 
+### Lazy load
+
+**Lưu ý:** Về mặt lý thuyết, tất cả các resource liên quan tới interaction của user (Scroll, click, hover, press,…) đều có thể lazy load được.
+
 # Interview
 
 - [https://github.com/Ren0503/fullstack-interviews/tree/main/frontend/javascript](https://github.com/Ren0503/fullstack-interviews/tree/main/frontend/javascript)
