@@ -41,3 +41,22 @@
 # Tutorials
 
 # Sample code
+
+### Cover Eyes Animation
+
+- [https://codepen.io/scvishnu7/pen/GRdZqLp](https://codepen.io/scvishnu7/pen/GRdZqLp)
+
+### Space snake
+
+- [https://space-snake.surge.sh/](https://space-snake.surge.sh/)
+  ![alt text](./assets/readme/imgs/image.png)
+
+### Form Validation
+
+- [https://codepen.io/webcrunchblog/pen/ZEWwvZy](https://codepen.io/webcrunchblog/pen/ZEWwvZy)
+  ![alt text](./assets/readme/imgs/image-1.png)
+
+### Creepy Crawly Kinematics
+
+- [https://codepen.io/MittenedWatchmaker/pen/zLqdaE](https://codepen.io/MittenedWatchmaker/pen/zLqdaE)
+  ![alt text](./assets/readme/imgs/image-3.png)
